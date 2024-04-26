@@ -1,0 +1,6 @@
+## Interface: 100206
+## Notes: Changes the micro menu colors based on their old colors.
+## Author: Marris
+## Version: @project-version@
+
+microMenuRecolor.lua
