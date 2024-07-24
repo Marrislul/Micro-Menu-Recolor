@@ -1,8 +1,8 @@
 --Buttons and their chosen color. Color chosen is based on old icon colors.
 local colorSet = {
-	{0/255, 94/255, 135/255, CharacterMicroButton}, --just a blue
-	{146/255, 113/255, 76/255, SpellbookMicroButton}, --taken from spellbook icon
-	{219/255, 50/255, 41/255, TalentMicroButton}, --target center of old icon and increased brightness
+	-- {0/255, 94/255, 135/255, CharacterMicroButton}, --just a blue
+	-- {146/255, 113/255, 155/255, PlayerSpellsMicroButton}, --taken from spellbook icon
+	-- {219/255, 50/255, 41/255, TalentMicroButton}, --target center of old icon and increased brightness
 	{220/255, 179/255, 24/255, AchievementMicroButton}, --center lower mid of old icon
 	{255/255, 227/255, 82/255, QuestLogMicroButton}, --center left of an older icon
 	{177/255, 144/255, 80/255, GuildMicroButton}, --center of old guildfinder icon
