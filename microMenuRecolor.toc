@@ -1,6 +1,10 @@
 ## Interface: 110207
+## Title: Micro Menu Recolor
 ## Notes: Changes the micro menu colors based on their old colors.
 ## Author: Marris
 ## Version: @project-version@
+## SavedVariables: MicroMenuRecolorDB
+## OptionalDeps: Ace3
 
+embeds.xml
 microMenuRecolor.lua
