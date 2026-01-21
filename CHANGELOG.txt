@@ -1,8 +1,2 @@
-2.0.0:
-- Converted to Ace3 framework
-- Added options panel (Interface Options > AddOns > Micro Menu Recolor)
-- Added checkboxes to enable/disable recoloring per button
-- Added color pickers to customize each button's color
-- Added Spellbook and Professions buttons
-- Added "Reset to Defaults" button
-- Settings now persist across sessions
+2.0.1:
+- added Midnight support
