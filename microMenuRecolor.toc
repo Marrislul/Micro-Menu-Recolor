@@ -1,4 +1,4 @@
-## Interface: 120007
+## Interface: 120100
 ## Title: Micro Menu Recolor
 ## Notes: Changes the micro menu colors based on their old colors.
 ## Author: Marris
